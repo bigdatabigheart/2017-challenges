@@ -24,7 +24,7 @@ There is no "Deploy to AWS" button.
 
 Here are three challenges around these IoT devices:
 
-* Architect a "Deploy to AWS" feature? 
+* Create a "Deploy to AWS" feature 
   - At the moment users must configure a MongoDB on another provider to deploy CGM in the Cloud - can it be done as a one-stop shop with AWS?
   - Can it be deployed in the free tier of AWS?
 
