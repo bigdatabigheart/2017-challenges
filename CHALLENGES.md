@@ -35,7 +35,11 @@ Here are three challenges around these IoT devices:
 
 # Epilepsy Queensland
 
+
 ## IoT Challenge for Epilepsy Queensland
+
+Many Epileptics now have EEG monitors that capture brainwave information and can be used to collect data and make predictions about epileptic seizures. Most of the damage during an epileptic seizure is due to falling, or colliding with objects. If an epileptic were notified of an impending seizure by a notification, they could get themselves to a safe position.
+
 
 # Lifeflight
 
