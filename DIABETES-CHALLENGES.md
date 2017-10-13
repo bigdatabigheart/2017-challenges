@@ -34,6 +34,3 @@ Here are three challenges around these IoT devices:
 * Can you add machine learning so that the program gives recommendations to users?
 
 
-
-# Lifeflight
-
