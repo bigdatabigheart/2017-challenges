@@ -8,13 +8,9 @@ Epilepsy is a group of neurological disorders characterized by epileptic seizure
 
 By using a wearable EEG headset and capturing the data output from these devices, we are able to send them up in near realtime to AWS. The objective is to then analyse the data and predict when medical problems occur so that actions and alerts can be performed. Using Kinesis Firehose, we can obtain a live feed of raw data of 14 channels of brainwave data. When a seizure occurs, an IoT button is pushed which then triggers a Lambda function to archive the data into DynamoDB. The objective is to find a brainwave pattern for each patient which can signal the onset of a seizure. Once a patient’s “seizure signature” is captured, we can then start firing SNS notifications when the Firehose data seems to match the pattern of a seizure.
 
-The consulting neurologist for this project, if accepted, will be Dr Dan McLaughlin, from Brisbane, Queensland. Dr McLaughlin is one of the most experienced neurologists in Queensland, Australia, primarily in the field of seizure control with medication.
-
-*Suggested speakers and/or customer to present:  Elgin Lam, AWS Technical Account Manager and Dr Dan McLaughlin, Neurologist & Epilepsy Specialist
-
 ## Notes: 
 
-I am a sufferer of epilepsy and over the years, have incurred numerous physical injuries to myself and others due to my seizures. By using a device like the Emotiv Epoc+ - https://www.emotiv.com/epoc/ , we are now able to capture brainwave activity in realtime. While other brands of EEG headsets do measure brainwave activity, the Emotiv+ measures 14 channels of brainwave activity and allows us to dump the raw data out. By combining this with a Raspberry PI 3, we effectively have a wearable device that can push brainwave data in realtime up to AWS.
+Epilesy sufferers incur numerous physical injuries due to their seizures. By using a device like the Emotiv Epoc+ - https://www.emotiv.com/epoc/ , we are now able to capture brainwave activity in realtime. While other brands of EEG headsets do measure brainwave activity, the Emotiv+ measures 14 channels of brainwave activity and allows us to dump the raw data out. By combining this with a Raspberry PI 3, we effectively have a wearable device that can push brainwave data in realtime up to AWS.
 
 Hardware Required Per Patient:
 -          Emotiv Epoc+ EEG Headset
@@ -26,6 +22,5 @@ The first step for each patient is to establish a brainwave pattern for seizures
 
 Once the patient’s “seizure pattern” has been established, the incoming data can be continually analysed for patterns and if a seizure pattern is predicted, notifications can be sent via SNS. This can include sending of push notifications to family members or persons physically near the patient so that first aid measures can be performed (with the GPS board on the Raspberry PI, the patient’s location can be sent out as part of the SNS notification). In most seizures, the immediate threat is physical injury or drowning (if near water), so having this notification can be life-saving.
 
-I do not have any ties, commercially or otherwise, to Emotiv. I have tried a couple of other headsets including NeuroSky’s MindWave Mobile and did not experience good results. This is the basis for my recommendation for using Emotiv.
 
  
