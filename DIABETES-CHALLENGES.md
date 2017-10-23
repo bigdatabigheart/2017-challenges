@@ -14,7 +14,7 @@ Most Type 1 Diabetics are diagnosed at a very young age - typically less than 10
 
 Are there patterns in the occurrence of Type 2 Diabetes by location? You might like to correlate occurrence with other datasets to see if you can make assertions about risk factors based on data.
 
-## IoT Challenge for Diabetes Queensland
+## IoT Challenge for Diabetes
 
 Many Type 1 Diabetics now have Continuous Glucose Monitors that produce data about the person's Blood Glucose Level - up to 280 data points per day.
 
