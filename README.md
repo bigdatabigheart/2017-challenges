@@ -2,5 +2,5 @@
 
 ## Slack 
 
-Join #event-bigdatabigheart on the Brisbane Slack: [https://brisbane.herokuapp.com](https://brisbane.herokuapp.com)
+Join the conversation on the Brisbane Slack: [https://brisbane.herokuapp.com](https://brisbane.herokuapp.com) in `#event-bigdatabigheart`.
 
