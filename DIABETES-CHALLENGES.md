@@ -6,11 +6,8 @@ Diagnosis of Type 1 Diabetes is often delayed. Because it is such a small percen
 
 How could technology be used to empower either General Practitioners or the General Public to diagnose Type 1 Diabetes when it presents?
 
-## Challenge 2: Type 1 Diabetes Education
 
-Most Type 1 Diabetics are diagnosed at a very young age - typically less than 10 years old. There is a lack of educational resources for them 
-
-## Challenge 3: Type 2 Diabetes Prevalence
+## Challenge 2: Type 2 Diabetes Prevalence
 
 Are there patterns in the occurrence of Type 2 Diabetes by location? You might like to correlate occurrence with other datasets to see if you can make assertions about risk factors based on data.
 
