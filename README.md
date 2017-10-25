@@ -8,6 +8,8 @@ Join the conversation on the Brisbane Slack: [https://brisbane.herokuapp.com](ht
 
 ### Diabetes Queensland
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/sJc7rE_CCkQ/0.jpg)](http://www.youtube.com/watch?v=sJc7rE_CCkQ "Diabetes Queensland")
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sJc7rE_CCkQ" frameborder="0" allowfullscreen></iframe>
 
 ### Epilepsy Queensland
