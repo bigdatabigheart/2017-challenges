@@ -10,12 +10,13 @@ Join the conversation on the Brisbane Slack: [https://brisbane.herokuapp.com](ht
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/sJc7rE_CCkQ/0.jpg)](http://www.youtube.com/watch?v=sJc7rE_CCkQ "Diabetes Queensland")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sJc7rE_CCkQ" frameborder="0" allowfullscreen></iframe>
 
 ### Epilepsy Queensland
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zrzR3TYcicY" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/zrzR3TYcicY/0.jpg)](http://www.youtube.com/watch?v=zrzR3TYcicY "Epilepsy Queensland")
+
 
 ### RACQ Life Flight
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qIBI-YkUFOg" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/qIBI-YkUFOg/0.jpg)](http://www.youtube.com/watch?v=qIBI-YkUFOg "RACQ Life Flight")
+
